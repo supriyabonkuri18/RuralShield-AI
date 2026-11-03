@@ -1,0 +1,6 @@
+{
+  "name": "RuralShield AI",
+  "description": "RuralShield AI Flood & Drought Risk Early Warning Platform for rural Indian communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
